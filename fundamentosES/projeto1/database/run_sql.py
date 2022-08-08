@@ -17,7 +17,7 @@ def run_sql(sql, values = None):
 
     # Conexão ao banco de dados
     try:
-        conn = psycopg2.connect("host=localhost port=5432 dbname=dbapp user=postgres password=XXXXX")
+        conn = psycopg2.connect("host=localhost port=5432 dbname=dbapp user=postgres password=dsacademy")
         cur = conn.cursor(cursor_factory = ext.DictCursor)
         cur.execute(sql, values)
         conn.commit()
