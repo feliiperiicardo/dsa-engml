@@ -7,6 +7,7 @@ Repositório destinado à centralizar os conteúdos práticos (códigos) da Form
 - Docker 4.8.2
 - Postgres 14.4
 - pgAdmin4 6.12
+- Flask 2.2.1
 
 ## Ambiente
 ### Docker
