@@ -13,10 +13,10 @@ from controladores.controlador_agendamento import agendamentos_blueprint
 app = Flask(__name__)
 
 # Registra as blueprints (os componentes)
-app.register_bluprint(membros_blueprint)
-app.register_bluprint(instrutores_blueprint)
-app.register_bluprint(atividades_blueprint)
-app.register_bluprint(agendamentos_blueprint)
+app.register_blueprint(membros_blueprint)
+app.register_blueprint(instrutores_blueprint)
+app.register_blueprint(atividades_blueprint)
+app.register_blueprint(agendamentos_blueprint)
 
 # Rota para a página de entrada da app
 @app.route("/")
