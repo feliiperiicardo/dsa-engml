@@ -1,7 +1,8 @@
 # dsa-engml
 Repositório destinado à centralizar os conteúdos práticos (códigos) da Formação Engenheiro de Machine Learning ofertada pela Data Science Academy
 
-## Requisitos
+## Capítulo 1
+### Requisitos
 
 - Python 3.8.9
 - Docker 4.8.2
@@ -9,8 +10,8 @@ Repositório destinado à centralizar os conteúdos práticos (códigos) da Form
 - pgAdmin4 6.12
 - Flask 2.2.1
 
-## Ambiente
-### Docker
+### Ambiente
+#### Docker
 
 Crie o container dbapp:
 ```bash
@@ -22,4 +23,8 @@ Inicialize o container dbapp:
 $ docker start dbapp
 ```
 
-### pgAdmin
+#### pgAdmin
+
+## Capítulo 2
+
+- requirements.txt
