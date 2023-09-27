@@ -27,4 +27,4 @@ $ docker start dbapp
 
 ## Capítulo 2
 
-- requirements.txt
+- (requirements.txt)[https://github.com/feliiperiicardo/dsa-engml/blob/main/ML_py_cpp/requirements.txt]
