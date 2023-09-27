@@ -1,7 +1,7 @@
 # dsa-engml
 Repositório destinado à centralizar os conteúdos práticos (códigos) da Formação Engenheiro de Machine Learning ofertada pela Data Science Academy
 
-## Capítulo 1
+## Módulo 1
 ### Requisitos
 
 - Python 3.8.9
@@ -25,6 +25,6 @@ $ docker start dbapp
 
 #### pgAdmin
 
-## Capítulo 2
+## Módulo 2
 
 - [requirements.txt](https://github.com/feliiperiicardo/dsa-engml/blob/main/ML_py_cpp/requirements.txt)
